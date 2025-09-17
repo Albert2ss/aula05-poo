@@ -1,0 +1,37 @@
+
+COMANDOS IMPORTANTES PARA USAR NO TERMINAL
+cd -> voltar a raiz/root do S.O
+ls -> listar pastas
+cd .. -> voltar uma pasta anterior
+cd nome_pasta -> abrir uma pasta
+cd "C:/" -> abrir um endereço
+pwd -> mostrar o caminho atual da pasta
+explorer -> abre uma pasta com explorador do S.O
+
+clear -> limpar a tela
+
+git init -> criar repositório .git pelo gitbash ou terminal
+
+git status -> verificar a situação do repositório
+
+git add . -> adicionar arquivos para o commit
+
+git commit -m -> Comando para fazer o commit ao repositório local/remoto
+
+git log -> utilizado para mostrar o histórico de commit
+
+git show -> exibir o conteúdo do commit Exemplo: git show d1234
+    d1234 -> é o código do commit que é singularizado em cada máquina
+    utilize o q-> (de quit) para sair do show
+
+git branch -> lista os branchs
+
+git branch nome -> cria uma branch
+
+git branch -d nome -> remove uma branch
+
+git branch -m nome_antigo nome_novo -> renomear uma branch
+
+git checkout nome_branch -> selecionar uma branch existente
+
+git checkout -b nome_branch -> criar uma nova branch e selecionar ela
